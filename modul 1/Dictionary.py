@@ -1,14 +1,14 @@
 # membuat dictionary
 data = {
-    "nama"      : "Sinta Nabila Soraya",
-    "NIM"      : 24241071,
+    "nama"      : "Reni julita",
+    "NIM"      : 24241051,
     "Prodi"     : "Pendidikan Teknologi Informasi",
     "mat_kul"    : ['Algoritma dan Pemrograman', 'Struktur Data', 'PBO'],
     "status"    : True,
     "sosmed"    : {
-        "Github"    : "@sintanabilasoraya",
-        "twitter"   : 'sinta',
-        "instagram" : 'xntq_syy'
+        "Github"    : "@jullytaa",
+        "twitter"   : 'renii',
+        "instagram" : 'jully'
     }
 }
 
@@ -49,12 +49,12 @@ data.clear()
 # Menambah data dictionary
 # membuat dictionary
 mahasiswa = {
-    "name" : "Sinta Nabila Soraya"
+    "name" : "Reni julita"
 }
 
 # menambahkan nim
 mahasiswa.update({
-    "nim" : "24241071"
+    "nim" : "24241051"
 })
 
 # melihat hasilnya
